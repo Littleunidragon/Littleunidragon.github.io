@@ -1,130 +1,168 @@
-# 1801
- Joseph Marie Jacquard, a French merchant and inventor invents a loom that uses punched wooden cards to automatically weave fabric designs. Early computers would use similar punch cards.
-# 1821
-English mathematician Charles Babbage conceives of a steam-driven calculating machine that would be able to compute tables of numbers. Funded by the British government, the project, called the "Difference Engine" fails due to the lack of technology at the time, according to the [University of Minnesota].
-# 1848
-**:** Ada Lovelace, an English mathematician and the daughter of poet Lord Byron, writes the world's first computer program. According to Anna Siffert, a professor of theoretical mathematics at the University of Münster in Germany, Lovelace writes the first program while translating a paper on Babbage's Analytical Engine from French into English. "She also provides her own comments on the text. Her annotations, simply called "notes," turn out to be three times as long as the actual transcript," Siffert wrote in an article for [The Max Planck Society](https://www.mpg.de/female-pioneers-of-science/Ada-Lovelace). "Lovelace also adds a step-by-step description for computation of Bernoulli numbers with Babbage's machine — basically an algorithm — which, in effect, makes her the world's first computer programmer." Bernoulli numbers are a sequence of rational numbers often used in computation.
-# 1853
-Swedish inventor Per Georg Scheutz and his son Edvard design the world's first printing calculator. The machine is significant for being the first to "compute tabular differences and print the results," according to Uta C. Merzbach's book, "[Georg Scheutz and the First Printing Calculator](https://target.georiot.com/Proxy.ashx?tsid=74387&GR_URL=https%3A%2F%2Famazon.com%2FScheutz-printing-calculator-Smithsonian-technology%2Fdp%2FB0006COF7G%3Ftag%3Dhawk-future-20%26ascsubtag%3Dlivescience-lv-1456072030369806000-20)" (Smithsonian Institution Press, 1977).
-# 1890
-Herman Hollerith designs a punch-card system to help calculate the 1890 U.S. Census. The machine,  saves the government several years of calculations, and the U.S. taxpayer approximately $5 million, according to [Columbia University](http://www.columbia.edu/cu/computinghistory/hollerith.html)  Hollerith later establishes a company that will eventually become International Business Machines Corporation ([IBM](https://www.ibm.com/ibm/history/exhibits/builders/builders_hollerith.html)).
-## The first machine to record and store information
 
+# _WORK IN PROGRESS_
+
+Sources:
+https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/
+https://www.computerhope.com/history/index.htm
+https://telehack.com/
+https://cdn.mos.cms.futurecdn.net/iEgWi99bt65tQ4vEo44zSa-970-80.jpg.webp
+
+# 1642
+## Blaise Pascal
+Frances Blaise Pascal invented a machine called the Pascaline that adds, subtracts, and carries between digits.
+
+# ~1670
+## Gottfried Leibniz
+Gottfried Leibniz introduced the Step Reckoner, a device that multiplies, divides, and evaluates square roots.
+
+# 1801
+## Joseph Marie Jacquard
+ -- a French merchant and inventor invents a loom that uses punched wooden cards to automatically weave fabric designs. Early computers would use similar punch cards.
+
+# 1837
+## Charles Babbage
+English mathematician Charles Babbage conceives of a steam-driven calculating machine that would be able to compute tables of numbers. Funded by the British government, the project, called the "Difference Engine" fails due to the lack of technology at the time, according to the University of Minnesota.
+# 1847
+## George Boole
+ In 1847, Boole published The Mathematical Analysis of Logic, the first of his works on symbolic logic. Later he would work on differential equations, binary logic and  "On the Comparison of Transcendent, with Certain Applications to the Theory of Definite Integrals"
+
+# 1852
+## Ada Lovelace
+Aan English mathematician and the daughter of poet Lord Byron, writes the world's first computer program. According to Anna Siffert, a professor of theoretical mathematics at the University of Münster in Germany, Lovelace writes the first program while translating a paper on Babbage's Analytical Engine from French into English. "She also provides her own comments on the text. Her annotations, simply called "notes," turn out to be three times as long as the actual transcript," Siffert wrote in an article for [The Max Planck Society](https://www.mpg.de/female-pioneers-of-science/Ada-Lovelace). "Lovelace also adds a step-by-step description for computation of Bernoulli numbers with Babbage's machine — basically an algorithm — which, in effect, makes her the world's first computer programmer." Bernoulli numbers are a sequence of rational numbers often used in computation.
+
+# 1853
+## Per Georg Scheutz
+Swedish inventor Per Georg Scheutz and his son Edvard design the world's first printing calculator. The machine is significant for being the first to "compute tabular differences and print the results," according to Uta C. Merzbach's book, "[Georg Scheutz and the First Printing Calculator](https://target.georiot.com/Proxy.ashx?tsid=74387&GR_URL=https%3A%2F%2Famazon.com%2FScheutz-printing-calculator-Smithsonian-technology%2Fdp%2FB0006COF7G%3Ftag%3Dhawk-future-20%26ascsubtag%3Dlivescience-lv-1456072030369806000-20)" (Smithsonian Institution Press, 1977).
+
+# 1865
+##  Fredrik Idestam
+Founded *NOKIA* as a wood pulp company.
+
+# 1874
+## Emile Baudot
+French telegraph engineer and inventor of the first means of digital communication Baudot code, was one of the pioneers of telecommunications. He invented a multiplexed printing telegraph system that used his code and allowed multiple transmissions over a single line. The baud unit was named after him.
+
+# 1879
+## Gottob Frege
+The Begriffsschrift he had written broke new ground, including a rigorous treatment of the ideas of functions and variables. Frege's goal was to show that mathematics grows out of logic, and in so doing, he devised techniques that separated him from the Aristotelian syllogistic but took him rather close to Stoic propositional logic.
+
+# 1880
+## Charles Sanders Peirce
+Peirce's most important work in pure mathematics was in logical and foundational areas. He also worked on linear algebra, matrices, various geometries, topology and Listing numbers, Bell numbers, graphs, the four-color problem, and the nature of continuity. 
+He worked on applied mathematics in economics, engineering, and map projections, and was especially active in probability and statistics.
+Nice guy overall
+
+# 1890
+## Herman Hollerith 
 In [1890](https://www.computerhope.com/history/1800.htm), [Herman Hollerith](https://www.computerhope.com/people/herman_hollerith.htm) developed a method for machines to record and store information on [punch cards](https://www.computerhope.com/jargon/p/punccard.htm) for the US census. Hollerith's machine was approximately ten times faster than manual tabulations, saving the census office millions of dollars. Hollerith would later form the company we know today as [IBM](https://www.computerhope.com/comp/ibm.htm).
+
+# 1909
+## Percy Ludgate 
+Working alone, Ludgate designed an analytical engine while unaware of Babbage's designs, although he later went on to write about Babbage's machine. Ludgate's engine used multiplication as its base mechanism (unlike Babbage's which used addition). It incorporated the first multiplier-accumulator, and was the first to exploit a multiplier-accumulator to perform division, using multiplication seeded by reciprocal, via the convergent series (1 + x)−1.
+Ludgate's engine also used a mechanism similar to slide rules, but employing unique, discrete "Logarithmic Indexes" (now known as Irish logarithms), as well as a novel memory system utilizing concentric cylinders, storing numbers as displacements of rods in shuttles. His design featured several other novel features, including for program control (e.g., preemption and subroutines – or microcode, depending on one's viewpoint). The design is so dissimilar from Babbage's that it can be considered a second, unique type of analytical engine, which thus preceded the third (electromechanical) and fourth (electronic) types. The engine's precise mechanism is unknown, as the only written accounts which survive do not detail its workings, although he stated in 1914 that "complete descriptive drawings of the machine exist, as well as a description in manuscript" – these have never been found.
+
+# 1914
+## Leonardo Torres Quevedo
+In early 1910, Torres began to construct a chess automaton he dubbed El Ajedrecista (The Chess Player). As opposed to The Turk and Ajeeb, El Ajedrecista had a true integrated automation and could automatically play a king and rook endgame against the king from any position, without any human intervention
+The pieces had a metallic mesh at their base, which closed an electric circuit that encoded their position in the board. When the black king was moved by hand, an algorithm calculated and performed the next best move for the white player. The automaton does not deliver checkmate in the minimum number of moves, nor always within the 50 moves allotted by the fifty-move rule, because of the simple algorithm that calculates the moves. It did, however, checkmate the opponent every time. If an illegal move was made by the opposite player, the automaton would signal it by turning on a light. If the opposing player made three illegal moves, the automaton would stop playing. The device has been considered the first computer game in history.
+
 # 1931
+## Vannevar Bush
  At the Massachusetts Institute of Technology (MIT), Vannevar Bush invents and builds the Differential Analyzer, the first large-scale automatic general-purpose mechanical analog computer, according to [Stanford University](https://plato.stanford.edu/entries/computing-history/#Bab).
 
 # 1936
+## Alan Turing
 [Alan Turing](https://www.livescience.com/29483-alan-turing.html), a British scientist and mathematician, presents the principle of a universal machine, later called the Turing machine, in a paper called "On Computable Numbers…" according to Chris Bernhardt's book "[Turing's Vision](https://target.georiot.com/Proxy.ashx?tsid=74387&GR_URL=https%3A%2F%2Famazon.com%2FTurings-Vision-Birth-Computer-Science%2Fdp%2F0262533510%3Ftag%3Dhawk-future-20%26ascsubtag%3Dlivescience-lv-9436208796853862000-20)" (The MIT Press, 2017). Turing machines are capable of computing anything that is computable. The central concept of the modern computer is based on his ideas. Turing is later involved in the development of the Turing-Welchman Bombe, an electro-mechanical device designed to decipher Nazi codes during World War II, according to the UK's [National Museum of Computing](https://www.tnmoc.org/bombe).
-# 1937 
- John Vincent Atanasoff, a professor of physics and [mathematics](https://www.livescience.com/38936-mathematics.html) at Iowa State University, submits a grant proposal to build the first electric-only computer, without using gears, cams, belts or shafts.
- ## First programmable computer
 
-The **[Z1](https://www.computerhope.com/jargon/z/z1.htm)** was created by German [Konrad Zuse](https://www.computerhope.com/people/konrad_zuse.htm) in his parents' living room between [1936](https://www.computerhope.com/history/1936.htm) and [1938](https://www.computerhope.com/history/1938.htm). It is the first electromechanical [binary](https://www.computerhope.com/jargon/b/binary.htm) programmable computer and the first functional modern computer.
+# 1939
+ ## John Vincent Atanasoff
+A professor of physics and [mathematics](https://www.livescience.com/38936-mathematics.html) at Iowa State University, submits a grant proposal to build the first electric-only computer, without using gears, cams, belts or shafts.
 
+ ## Konrad Zuse
+The First programmable computer **[Z1](https://www.computerhope.com/jargon/z/z1.htm)** was created by German [Konrad Zuse](https://www.computerhope.com/people/konrad_zuse.htm) in his parents' living room between [1936](https://www.computerhope.com/history/1936.htm) and [1938](https://www.computerhope.com/history/1938.htm). It is the first electromechanical [binary](https://www.computerhope.com/jargon/b/binary.htm) programmable computer and the first functional modern computer.
+Konrad Zuse would also later create the [Z3](https://www.computerhope.com/jargon/z/z3.htm), the first functioning programmable computer that could be fully [automated](https://www.computerhope.com/jargon/a/automati.htm).
 ![Z1 computer](https://www.computerhope.com/cdn/z1.jpg)
 
-Konrad Zuse would also later create the [Z3](https://www.computerhope.com/jargon/z/z3.htm), the first functioning programmable computer that could be fully [automated](https://www.computerhope.com/jargon/a/automati.htm).
-## Bell Laboratories scientist George Stibitz uses relays for a demonstration adder
+## George Stibitz
+Bell Laboratories scientist George Stibitz uses relays for a demonstration adder
+called the “Model K” Adder because he built it on his “Kitchen” table, this simple demonstration circuit provides proof of concept for applying Boolean logic to the design of computers, resulting in construction of the relay-based Model I Complex Calculator in 1939. That same year in Germany, engineer Konrad Zuse built his Z2 computer, also using telephone company relays.![[first computers-20240106144033081.webp|272]]
 
-Called the “Model K” Adder because he built it on his “Kitchen” table, this simple demonstration circuit provides proof of concept for applying Boolean logic to the design of computers, resulting in construction of the relay-based Model I Complex Calculator in 1939. That same year in Germany, engineer Konrad Zuse built his Z2 computer, also using telephone company relays.![[first computers-20240106144033081.webp|272]]
 # 1939 
 
 ## Hewlett-Packard is founded
-
-David Packard and Bill Hewlett found their company in a Palo Alto, California garage. Their first product, the HP 200A Audio Oscillator, rapidly became a popular piece of test equipment for engineers. Walt Disney Pictures ordered eight of the 200B model to test recording equipment and speaker systems for the 12 specially equipped theatres that showed the movie “Fantasia” in 1940.
-
-**:** David Packard and Bill Hewlett found the Hewlett Packard Company in Palo Alto, California. The pair decide the name of their new company by the toss of a coin, and Hewlett-Packard's first headquarters are in Packard's garage, according to [MIT](https://lemelson.mit.edu/award-winners/william-hewlett-and-david-packard).
-
+David Packard and Bill Hewlett found their company in a Palo Alto, California garage. Their first product, the HP 200A Audio Oscillator, rapidly became a popular piece of test equipment for engineers. Walt Disney Pictures ordered eight of the 200B model to test recording equipment and speaker systems for the 12 specially equipped theatres that showed the movie “Fantasia” in 1940.The pair decide the name of their new company by the toss of a coin, and Hewlett-Packard's first headquarters are in Packard's garage, according to [MIT](https://lemelson.mit.edu/award-winners/william-hewlett-and-david-packard).
 ![[first computers-20240106144111143.webp|336]]
+
 # 1940
-# 
-
 ## The Complex Number Calculator (CNC) is completed
-
 In 1939, Bell Telephone Laboratories completes this calculator, designed by scientist George Stibitz. In 1940, Stibitz demonstrated the CNC at an American Mathematical Society conference held at Dartmouth College. Stibitz stunned the group by performing calculations remotely on the CNC (located in New York City) using a Teletype terminal connected to New York over special telephone lines. This is likely the first example of remote access computing.
 ![[first computers-20240106144445312.webp|237]]
 
 # 1941
-
 ## Konrad Zuse finishes the Z3 Computer
-
 The Z3, an early computer built by German engineer Konrad Zuse working in complete isolation from developments elsewhere, uses 2,300 relays, performs floating point binary arithmetic, and has a 22-bit word length. The Z3 was used for aerodynamic calculations but was destroyed in a bombing raid on Berlin in late 1943. Zuse later supervised a reconstruction of the Z3 in the 1960s, which is currently on display at the Deutsches Museum in Munich.
 
 German inventor and engineer Konrad Zuse completes his Z3 machine, the world's earliest digital computer, according to Gerard O'Regan's book "[A Brief History of Computing](https://target.georiot.com/Proxy.ashx?tsid=74387&GR_URL=https%3A%2F%2Famazon.com%2FBrief-History-Computing-Gerard-ORegan%2Fdp%2F3030665984%3Ftag%3Dhawk-future-20%26ascsubtag%3Dlivescience-lv-1449173120679259100-20)" (Springer, 2021). The machine was destroyed during a bombing raid on Berlin during World War II. Zuse fled the German capital after the defeat of Nazi Germany and later released the world's first commercial digital computer, the Z4, in 1950, according to O'Regan.
 ![[first computers-20240106144503974.webp|312]]
-#
 
 ## The first Bombe is completed
-
 Built as an electro-mechanical means of decrypting Nazi ENIGMA-based military communications during World War II, the British Bombe is conceived of by computer pioneer Alan Turing and Harold Keen of the British Tabulating Machine Company. Hundreds of allied bombes were built in order to determine the daily rotor start positions of Enigma cipher machines, which in turn allowed the Allies to decrypt German messages. The basic idea for bombes came from Polish code-breaker Marian Rejewski's 1938 "Bomba."
 ![[first computers-20240106144605277.webp|337]]
 Atanasoff and his graduate student, Clifford Berry, design the first digital electronic computer in the U.S., called the Atanasoff-Berry Computer (ABC). This marks the first time a computer is able to store information on its main memory, and is capable of performing one operation every 15 seconds, according to the book "[Birthing the Computer](https://target.georiot.com/Proxy.ashx?tsid=74387&GR_URL=https%3A%2F%2Famazon.com%2FBirthing-Computer-Historical-Computing-Machine%2Fdp%2F1443897787%3Ftag%3Dhawk-future-20%26ascsubtag%3Dlivescience-lv-1222491944737835800-20)" (Cambridge Scholars Publishing, 2016)
+
 # 1942
-
-# The Atanasoff-Berry Computer (ABC) is completed
-
+## The Atanasoff-Berry Computer (ABC) is completed
 After successfully demonstrating a proof-of-concept prototype in 1939, Professor John Vincent Atanasoff receives funds to build a full-scale machine at Iowa State College (now University). The machine was designed and built by Atanasoff and graduate student Clifford Berry between 1939 and 1942. The ABC was at the center of a patent dispute related to the invention of the computer, which was resolved in 1973 when it was shown that ENIAC co-designer John Mauchly had seen the ABC shortly after it became functional.
-
 The legal result was a landmark: Atanasoff was declared the originator of several basic computer ideas, but the computer as a concept was declared un-patentable and thus freely open to all. A full-scale working replica of the ABC was completed in 1997, proving that the ABC machine functioned as Atanasoff had claimed. The replica is currently on display at the Computer History Museum.
 ![[first computers-20240106144725369.webp|364]]
 
 # 1943
-
 ## Bell Labs Relay Interpolator is completed
-
 The US Army asked Bell Laboratories to design a machine to assist in testing its M-9 gun director, a type of analog computer that aims large guns to their targets. Mathematician George Stibitz recommends using a relay-based calculator for the project. The result was the Relay Interpolator, later called the Bell Labs Model II. The Relay Interpolator used 440 relays, and since it was programmable by paper tape, was used for other applications following the war.
-
 ![[first computers-20240106144813839.webp|171]]
 
 ## Curt Herzstark designs Curta calculator
-
 Curt Herzstark was an Austrian engineer who worked in his family’s manufacturing business until he was arrested by the Nazis in 1943. While imprisoned at Buchenwald concentration camp for the rest of World War II, he refines his pre-war design of a calculator featuring a modified version of Leibniz’s “stepped drum” design. After the war, Herzstark’s Curta made history as the smallest all-mechanical, four-function calculator ever built.
 ![[first computers-20240106145031987.webp|261]]
-## The first electric programmable computer
 
+## The first electric programmable computer
+The **[Colossus](https://www.computerhope.com/jargon/c/colossus.htm)** was the first electric programmable computer, developed by [Tommy Flowers](https://www.computerhope.com/people/thomas_flowers.htm), and was first demonstrated in December [1943](https://www.computerhope.com/history/1943.htm). The [Colossus](https://www.computerhope.com/jargon/c/colossus.htm) was created to help the British code breakers read encrypted German messages.
 ![Colossus Mark 2](https://www.computerhope.com/cdn/colossus.jpg)
 
-The **[Colossus](https://www.computerhope.com/jargon/c/colossus.htm)** was the first electric programmable computer, developed by [Tommy Flowers](https://www.computerhope.com/people/thomas_flowers.htm), and was first demonstrated in December [1943](https://www.computerhope.com/history/1943.htm). The [Colossus](https://www.computerhope.com/jargon/c/colossus.htm) was created to help the British code breakers read encrypted German messages.
 # 1944
 ## First Colossus operational at Bletchley Park
+Designed by British engineer Tommy Flowers, the Colossus is designed to break the complex Lorenz ciphers used by the Nazis during World War II. A total of ten Colossi were delivered, each using as many as 2,500 vacuum tubes. A series of pulleys transported continuous rolls of punched paper tape containing possible solutions to a particular code. Colossus reduced the time to break Lorenz messages from weeks to hours. Most historians believe that the use of Colossus machines significantly shortened the war by providing evidence of enemy intentions and beliefs. The machine’s existence was not made public until the 1970s.
+![[first computers-20240106144924307.webp|407]]
 
-Designed by British engineer Tommy Flowers, the Colossus is designed to break the complex Lorenz ciphers used by the Nazis during World War II. A total of ten Colossi were delivered, each using as many as 2,500 vacuum tubes. A series of pulleys transported continuous rolls of punched paper tape containing possible solutions to a particular code. Colossus reduced the time to break Lorenz messages from weeks to hours. Most historians believe that the use of Colossus machines significantly shortened the war by providing evidence of enemy intentions and beliefs. The machine’s existence was not made public until the 1970s.![[first computers-20240106144924307.webp|407]]
 ## Harvard Mark 1 is completed
 Conceived by Harvard physics professor Howard Aiken, and designed and built by IBM, the Harvard Mark 1 is a room-sized, relay-based calculator. The machine had a fifty-foot long camshaft running the length of machine that synchronized the machine’s thousands of component parts and used 3,500 relays. The Mark 1 produced mathematical tables but was soon superseded by electronic stored-program computers.
 ![[first computers-20240106145125816.webp|329]]
 
 # 1945 
-
 ## John von Neumann writes _First Draft of a Report on the EDVAC_
-
 In a widely circulated paper, mathematician John von Neumann outlines the architecture of a stored-program computer, including electronic storage of programming information and data -- which eliminates the need for more clumsy methods of programming such as plugboards, punched cards and paper. Hungarian-born von Neumann demonstrated prodigious expertise in hydrodynamics, ballistics, meteorology, game theory, statistics, and the use of mechanical devices for computation. After the war, he concentrated on the development of Princeton´s Institute for Advanced Studies computer.
 ![[first computers-20240106145244358.webp|300]]
- Two professors at the University of Pennsylvania, John Mauchly and J. Presper Eckert, design and build the Electronic Numerical Integrator and Calculator (ENIAC). The machine is the first "automatic, general-purpose, electronic, decimal, digital computer," according to Edwin D. Reilly's book "Milestones in Computer Science and Information Technology" (Greenwood Press, 2003).
+
 # 1946
-
 ## Moore School lectures take place
-
 An inspiring summer school on computing at the University of Pennsylvania´s Moore School of Electrical Engineering stimulates construction of stored-program computers at universities and research institutions in the US, France, the UK, and Germany. Among the lecturers were early computer designers like John von Neumann, Howard Aiken, J. Presper Eckert and John Mauchly, as well as mathematicians including Derrick Lehmer, George Stibitz, and Douglas Hartree. Students included future computing pioneers such as Maurice Wilkes, Claude Shannon, David Rees, and Jay Forrester. This free, public set of lectures inspired the EDSAC, BINAC, and, later, IAS machine clones like the AVIDAC.
 ![[first computers-20240106145336626.webp|351]]
 
-
 ## Project Whirlwind begins
-
 During World War II, the US Navy approaches the Massachusetts Institute of Technology (MIT) about building a flight simulator to train bomber crews. Under the leadership of MIT's Gordon Brown and Jay Forrester, the team first built a small analog simulator, but found it inaccurate and inflexible. News of the groundbreaking electronic ENIAC computer that same year inspired the group to change course and attempt a digital solution, whereby flight variables could be rapidly programmed in software. Completed in 1951, Whirlwind remains one of the most important computer projects in the history of computing. Foremost among its developments was Forrester’s perfection of magnetic core memory, which became the dominant form of high-speed random access memory for computers until the mid-1970s.
-
 ![[first computers-20240106145426855.webp|356]]
+
 ## Public unveiling of ENIAC
 Started in 1943, the ENIAC computing system was built by John Mauchly and J. Presper Eckert at the Moore School of Electrical Engineering of the University of Pennsylvania. Because of its electronic, as opposed to electromechanical, technology, it is over 1,000 times faster than any previous computer. ENIAC used panel-to-panel wiring and switches for programming, occupied more than 1,000 square feet, used about 18,000 vacuum tubes and weighed 30 tons. It was believed that ENIAC had done more calculation over the ten years it was in operation than all of humanity had until that time.
-
 Mauchly and Presper leave the University of Pennsylvania and receive funding from the Census Bureau to build the UNIVAC, the first commercial computer for business and government applications.
 ![[first computers-20240106145524017.webp|324]]
+
 # 1947
+## Invention of transistor
  William Shockley, John Bardeen and Walter Brattain of Bell Laboratories invent the [transistor](https://www.livescience.com/46021-what-is-a-transistor.html). They discover how to make an electric switch with solid materials and without the need for a vacuum.
 
 # 1948
 ## The first stored program computer
-
 ![First electronically stored program to be executed by a computer, written by Tom Kilburn in 1948 for the SSEM.](https://www.computerhope.com/jargon/s/ssem-program.png)
 
 The first computer to electronically store and execute a program was the [SSEM](https://www.computerhope.com/jargon/s/ssem.htm) (Small Scale Experimental Machine), also known as the "Baby" or "Manchester Baby," in [1948](https://www.computerhope.com/history/1948.htm). It was designed by [Frederic Williams](https://www.computerhope.com/people/frederic_williams.htm) and built by his protégée, [Tom Kilburn](https://www.computerhope.com/people/tom_kilburn.htm), with the assistance of Geoff Tootill, at the University of Manchester, England. Kilburn wrote the first electronically-stored program, which finds the highest proper factor of an [integer](https://www.computerhope.com/jargon/i/integer.htm) using repeated subtraction rather than division. Kilburn's program was executed on June 21, [1948](https://www.computerhope.com/history/1948.htm).
@@ -134,8 +172,6 @@ The second stored-program computer was also British: the **[EDSAC](https://www.
 [![First electronically stored program to be executed by a computer, written by Tom Kilburn in 1948 for the SSEM.|307](https://www.computerhope.com/jargon/s/ssem-program.png)](https://www.computerhope.com/jargon/e/edsac.htm)   ![Manchester Mark 1](https://www.computerhope.com/cdn/manchester-mark-1.jpg "Manchester Mark 1")
 
 Around the same time, the [**Manchester Mark 1**](https://www.computerhope.com/jargon/m/mark-1.htm) was another computer that could run stored programs. Built at the Victoria University of Manchester, the first version of the Mark 1 computer became operational in April [1949](https://www.computerhope.com/history/1949.htm). Mark 1 was used to run a program to search for Mersenne [primes](https://www.computerhope.com/jargon/p/prime-number.htm) for nine hours without error on June 16 and 17 that same year.
-## First Computer Program to Run on a Computer
-University of Manchester researchers Frederic Williams, Tom Kilburn, and Geoff Toothill develop the Small-Scale Experimental Machine (SSEM), better known as the Manchester "Baby." The Baby was built to test a new memory technology developed by Williams and Kilburn -- soon known as the Williams Tube – which was the first high-speed electronic random access memory for computers. Their first program, consisting of seventeen instructions and written by Kilburn, ran on June 21st, 1948. This was the first program in history to run on a digital, electronic, stored-program computer.
 ![[first computers-20240106145607544.webp|318]]
 
 ## SSEC goes on display
@@ -143,43 +179,36 @@ The Selective Sequence Electronic Calculator (SSEC) project, led by IBM engineer
 ![[first computers-20240106145649053.webp|296]]
 
 # 1949
-
 ## CSIRAC runs first program
-
 A team at the University of Cambridge develops the Electronic Delay Storage Automatic Calculator (EDSAC), "the first practical stored-program computer," according to O'Regan. "EDSAC ran its first program in May 1949 when it calculated a table of squares and a list of [prime numbers](https://www.livescience.com/34526-prime-numbers.html)," O'Regan wrote. In November 1949, scientists with the Council of Scientific and Industrial Research (CSIR), now called CSIRO, build Australia's first digital computer called the Council for Scientific and Industrial Research Automatic Computer (CSIRAC). CSIRAC is the first digital computer in the world to play music, according to O'Regan.
 
 While many early digital computers were based on similar designs, such as the IAS and its copies, others are unique designs, like the CSIRAC. Built in Sydney, Australia by the Council of Scientific and Industrial Research for use in its Radio physics Laboratory in Sydney, CSIRAC was designed by British-born Trevor Pearcey, and used unusual 12-hole paper tape. It was transferred to the Department of Physics at the University of Melbourne in 1955 and remained in service until 1964.![[first computers-20240106145749957.webp]]
 
 ## EDSAC completed
-
 The first practical stored-program computer to provide a regular computing service, EDSAC is built at Cambridge University using vacuum tubes and mercury delay lines for memory. The EDSAC project was led by Cambridge professor and director of the Cambridge Computation Laboratory, Maurice Wilkes. Wilkes' ideas grew out of the Moore School lectures he had attended three years earlier. One major advance in programming was Wilkes' use of a library of short programs, called “subroutines,” stored on punched paper tapes and used for performing common repetitive calculations within a lager program.![[first computers-20240106145826746.webp|316]]
 ## MADDIDA developed
-MADDIDA is a digital drum-based differential analyzer. This type of computer is useful in performing many of the mathematical equations scientists and engineers encounter in their work. It was originally created for a nuclear missile design project in 1949 by a team led by Fred Steele. It used 53 vacuum tubes and hundreds of germanium diodes, with a magnetic drum for memory. Tracks on the drum did the mathematical integration. MADDIDA was flown across the country for a demonstration to John von Neumann, who was impressed. Northrop was initially reluctant to make MADDIDA a commercial product, but by the end of 1952, six had sold.![[first computers-20240106145924957.webp|292]]
-
+MADDIDA is a digital drum-based differential analyzer. This type of computer is useful in performing many of the mathematical equations scientists and engineers encounter in their work. It was originally created for a nuclear missile design project in 1949 by a team led by Fred Steele. It used 53 vacuum tubes and hundreds of germanium diodes, with a magnetic drum for memory. Tracks on the drum did the mathematical integration. MADDIDA was flown across the country for a demonstration to John von Neumann, who was impressed. Northrop was initially reluctant to make MADDIDA a commercial product, but by the end of 1952, six had sold.
+![[first computers-20240106145924957.webp|292]]
 
 ## Manchester Mark I completed
 Built by a team led by engineers Frederick Williams and Tom Kilburn, the Mark I serves as the prototype for Ferranti’s first computer – the Ferranti Mark 1. The Manchester Mark I used more than 1,300 vacuum tubes and occupied an area the size of a medium room. Its “Williams-Kilburn tube” memory system was later adopted by several other early computer systems around the world.
 ![[first computers-20240106145955650.webp|327]]
-## The first computer company
 
+## The first computer company
 The first computer company was **Electronic Controls Company** and was founded in [1949](https://www.computerhope.com/history/1949.htm) by J. Presper Eckert and John Mauchly, the same individuals who helped create the ENIAC computer. The company was later renamed to EMCC (Eckert-Mauchly Computer Corporation) and released several mainframe computers under the [UNIVAC](https://www.computerhope.com/jargon/u/univac.htm) (Universal Automatic Computer) name.
+
 # 1950
 ## First computer with a program stored in memory
-
-![UNIVAC 1101](https://www.computerhope.com/cdn/univac-1101.jpg)
-
 First delivered to the United States government in [1950](https://www.computerhope.com/history/1950.htm), the **UNIVAC 1101** or **ERA 1101** is considered the first computer capable of storing and running a program from memory.
 ## ERA 1101 introduced
 One of the first commercially produced computers, the company´s first customer was the US Navy. The 1101, designed by ERA but built by Remington-Rand, was intended for high-speed computing and stored 1 million bits on its magnetic drum, one of the earliest magnetic storage devices and a technology which ERA had done much to perfect in its own laboratories. Many of the 1101’s basic architectural details were used again in later Remington-Rand computers until the 1960s.
 ![[first computers-20240106150147836.webp|290]]
-
+![UNIVAC 1101](https://www.computerhope.com/cdn/univac-1101.jpg)
 ## NPL Pilot ACE completed
 Based on ideas from Alan Turing, Britain´s Pilot ACE computer is constructed at the National Physical Laboratory. "We are trying to build a machine to do all kinds of different things simply by programming rather than by the addition of extra apparatus," Turing said at a symposium on large-scale digital calculating machinery in 1947 in Cambridge, Massachusetts. The design packed 800 vacuum tubes into a relatively compact 12 square feet.
 ![[first computers-20240106150219927.webp|280]]
 ## Plans to build the Simon 1 relay logic machine are published
-
 The hobbyist magazine _Radio Electronics_ publishes Edmund Berkeley's design for the Simon 1 relay computer from 1950 to 1951. The Simon 1 used relay logic and cost about $600 to build. In his book _Giant Brains_, Berkeley noted - “We shall now consider how we can design a very simple machine that will think. Let us call it Simon, because of its predecessor, Simple Simon... Simon is so simple and so small in fact that it could be built to fill up less space than a grocery-store box; about four cubic feet.”
-
 ![[first computers-20240106150258432.webp|364]]
 ## SEAC and SWAC completed
 The Standards Eastern Automatic Computer (SEAC) is among the first stored program computers completed in the United States. It was built in Washington DC as a test-bed for evaluating components and systems as well as for setting computer standards. It was also one of the first computers to use all-diode logic, a technology more reliable than vacuum tubes. The world's first scanned image was made on SEAC by engineer Russell Kirsch in 1957.
@@ -187,32 +216,28 @@ The Standards Eastern Automatic Computer (SEAC) is among the first stored progra
 The NBS also built the Standards Western Automatic Computer (SWAC) at the Institute for Numerical Analysis on the UCLA campus. Rather than testing components like the SEAC, the SWAC was built using already-developed technology. SWAC was used to solve problems in numerical analysis, including developing climate models and discovering five previously unknown Mersenne prime numbers.
 ![[first computers-20240106150335967.webp|307]]
 ## First commercial computer
-
 In 1942, [Konrad Zuse](https://www.computerhope.com/people/konrad_zuse.htm) began working on the **Z4**, the first commercial computer. The computer was sold to Eduard Stiefel, a mathematician at the Swiss Federal Institute of Technology Zurich, on July 12, [1950](https://www.computerhope.com/history/1950.htm).
-# 1951
 
+# 1951
 ## Ferranti Mark I sold
 The title of “first commercially available general-purpose computer” probably goes to Britain’s Ferranti Mark I for its sale of its first Mark I computer to Manchester University. The Mark 1 was a refinement of the experimental Manchester “Baby” and Manchester Mark 1 computers, also at Manchester University. A British government contract spurred its initial development but a change in government led to loss of funding and the second and only other Mark I was sold at a major loss to the University of Toronto, where it was re-christened FERUT.
 ![[first computers-20240106150415265.webp|317]]
 
-[
-
 ## First Univac 1 delivered to US Census Bureau
-
 The Univac 1 is the first commercial computer to attract widespread public attention. Although manufactured by Remington Rand, the machine was often mistakenly referred to as “the IBM Univac." Univac computers were used in many different applications but utilities, insurance companies and the US military were major customers. One biblical scholar even used a Univac 1 to compile a concordance to the King James version of the Bible. Created by Presper Eckert and John Mauchly -- designers of the earlier ENIAC computer -- the Univac 1 used 5,200 vacuum tubes and weighed 29,000 pounds. Remington Rand eventually sold 46 Univac 1s at more than $1 million each.
-
 ![[first computers-20240106150619900.webp|332]]
 
 ## J. Lyons & Company introduce LEO-1
-
 Modeled after the Cambridge University EDSAC computer, the president of Lyons Tea Co. has the LEO built to solve the problem of production scheduling and delivery of cakes to the hundreds of Lyons tea shops around England. After the success of the first LEO, Lyons went into business manufacturing computers to meet the growing need for data processing systems in business. The LEO was England’s first commercial computer and was performing useful work before any other commercial computer system in the world.
-
 ![[first computers-20240106150723149.webp|273]]
-# 1952
 
+## Sergey Alekseyevich Lebedev - MESM
+
+# 1952
 ## IAS computer operational
 The Institute of Advanced Study (IAS) computer is a multi-year research project conducted under the overall supervision of world-famous mathematician John von Neumann. The notion of storing both data and instructions in memory became known as the ‘stored program concept’ to distinguish it from earlier methods of instructing a computer. The IAS computer was designed for scientific calculations and it performed essential work for the US atomic weapons program. Over the next few years, the basic design of the IAS machine was copied in at least 17 places and given similar-sounding names, for example, the MANIAC at Los Alamos Scientific Laboratory; the ILLIAC at the University of Illinois; the Johnniac at The Rand Corporation; and the SILLIAC in Australia.
 ![[first computers-20240106150509515.webp|239]]
+## Grace Hopper - A-O compiler
 
 # 1953
 ## Grimsdale and Webb build early transistorized computer
@@ -643,6 +668,8 @@ Commodore’s Amiga 1000 is announced with a major event at New York's Lincoln C
 
 As a response to the Apple Lisa's GUI, Microsoft releases Windows in November 1985, the [Guardian reported](https://www.theguardian.com/technology/2014/oct/02/from-windows-1-to-windows-10-29-years-of-windows-evolution). Meanwhile, Commodore announces the Amiga 1000.
 # 1986
+## Navlab
+Research on computer controlled vehicles began at Carnegie Mellon in 1984[1] as part of the DARPA Strategic Computing Initiative[2] and production of the first vehicle, Navlab 1, began in 1986.[3]
 
 ## Compaq introduces the Deskpro 386 system
 Compaq beats IBM to the market when it announces the Deskpro 386, the first computer on the market to use Intel´s new 80386 chip, a 32-bit microprocessor with 275,000 transistors on each chip. At 4 million operations per second and 4 kilobytes of memory, the 80386 gave PCs as much speed and power as older mainframes and minicomputers.
@@ -698,6 +725,8 @@ Apple had initially included a handle in their Macintosh computers to encourage 
 
 Tim Berners-Lee, a British researcher at the European Organization for Nuclear Research ([CERN](https://home.cern/science/computing/birth-web)), submits [his proposal](https://cds.cern.ch/record/369245/files/dd-89-001.pdf) for what would become the World Wide Web. His paper details his ideas for Hyper Text Markup Language (HTML), the building blocks of the Web.
 # 1990
+## Kismet
+Kismet is a robot head which was made in the 1990s at Massachusetts Institute of Technology (MIT) by Dr. Cynthia Breazeal as an experiment in affective computing; a machine that can recognize and simulate emotions. The name Kismet comes from a Turkish word meaning "fate" or sometimes "luck".
 
 ## Intel's Touchstone Delta supercomputer system comes online
 
@@ -707,8 +736,6 @@ Ironically, in the absence of government funding and public hype, AI thrived. Du
 
 ## Babbage's Difference Engine #2 is completed
 Based on Charles Babbage's second design for a mechanical calculating engine, a team at the Science Museum in London sets out to prove that the design would have worked as planned. Led by curator Doron Swade the team built Babbage’s machine in six years, using techniques that would have been available to Babbage at the time, proving that Babbage’s design was accurate and that it could have been built in his day.![[first computers-20240106160925463.webp|323]]
-
-[
 
 ## PowerBook series of laptops is introduced
 Apple's Macintosh Portable meets with little success in the marketplace and leads to a complete redesign of Apple's line of portable computers. All three PowerBooks introduced featured a built-in trackball, internal floppy drive, and palm rests, which would eventually become typical of 1990s laptop design. The PowerBook 100 was the entry-level machine, while the PowerBook 140 was more powerful and had a larger memory. The PowerBook 170 was the high-end model, featuring an active matrix display, faster processor, as well as a floating point unit. The PowerBook line of computers was discontinued in 2006.
@@ -768,12 +795,17 @@ Sony had manufactured and sold computers in Japan, but the VAIO signals their en
 
 Sergey Brin and Larry Page develop the Google search engine at Stanford University.
 # 1997
+## 
+Dragon Systems released NaturallySpeaking 1.0 as their first continuous dictation product in 1997.
 
 ## ASCI Red is operational
 The Advanced Strategic Computing Initiative (ASCI) needed a supercomputer to help with the maintenance of the US nuclear arsenal following the ban on underground nuclear testing. The ASCI Red, based on the design of the Intel Paragon, was built by IBM and delivered to Sandia National Laboratories. Until the year 2000, it was the world's fastest supercomputer, able to achieve peak performance of 1.3 teraflops, (about 1.3 trillion calculations per second).
 ![[first computers-20240106162004985.webp|298]]
 
 Microsoft invests $150 million in Apple, which at the time is struggling financially.  This investment ends an ongoing court case in which Apple accused Microsoft of copying its operating system.
+## Deep Blue
+Deep Blue was a chess-playing expert system run on a unique purpose-built IBM supercomputer. It was the first computer to win a game, and the first to win a match, against a reigning world champion under regular time controls.
+
 # 1998
 
 ## Linux-based Supercomputing
