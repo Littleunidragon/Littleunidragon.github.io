@@ -1,0 +1,9 @@
+- [ ] Stylized desktop wallpaper, which showcases placement of planets in solar system in real time
+- [ ] Little meadow -  app for testing, archiving and running all my code
+- [ ] Library system for book organizing + reciting function(for ex. every year from reading book program asks to remember what this book was about)
+- [ ] glossary
+- [ ] plant watering reminder
+- [ ] research - how often citation from twitter used as sources in news
+- [ ] creating app to make qr codes from audio
+- [ ] my website!!!!
+- [ ] website with random tasks from exams and ranking table
