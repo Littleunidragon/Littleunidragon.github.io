@@ -1,50 +1,39 @@
 package main
 
 import (
-	"fmt"
 	"net/http"
 
-	"github.com/gin-gonic/gin"
+	"github.com/labstack/echo/v4"
 )
 
 func main() {
-	r := gin.Default()
+	e := echo.New()
 
-	// Define login route
-	r.POST("/login", func(c *gin.Context) {
-		// Get username and password from the form data
-		username := c.PostForm("username")
-		password := c.PostForm("password")
+	// Serve login.html for GET requests to /login
+	e.GET("/login", func(c echo.Context) error {
+		return c.File("login.html")
+	})
 
-		// Debugging: Print username and password received
-		fmt.Printf("Received username: %s, password: %s\n", username, password)
+	// Handle login form submissions
+	e.POST("/login", func(c echo.Context) error {
+		// Retrieve username and password from the form data
+		username := c.FormValue("username")
+		password := c.FormValue("password")
 
-		// Validate username and password (dummy example)
-		if username == "example" && password == "example" {
+		// Implement authentication logic here
+		// For example, check if the username and password are valid
+
+		// Example authentication logic
+		if username == "admin" && password == "password" {
 			// Authentication successful
-			c.JSON(http.StatusOK, gin.H{"message": "Login successful"})
-			// Debugging: Print message indicating redirection
-			fmt.Println("Redirecting to dashboard...")
-			// Redirect to the dashboard upon successful login
-			c.Redirect(http.StatusFound, "/dashboard")
-			return // Return to prevent further execution
+			// Redirect to the main page or any other appropriate location
+			return c.Redirect(http.StatusFound, "/index.html")
 		} else {
-			// Debugging: Print message indicating authentication failure
-			fmt.Println("Authentication failed")
 			// Authentication failed
-			c.JSON(http.StatusUnauthorized, gin.H{"error": "Invalid username or password"})
+			return c.String(http.StatusUnauthorized, "Invalid username or password")
 		}
 	})
 
-	// Define create article route
-	r.POST("/create-article", func(c *gin.Context) {
-		// Handle create article logic here
-		// Save article to database, etc.
-
-		// Return success message
-		c.JSON(http.StatusOK, gin.H{"message": "Article created successfully"})
-	})
-
-	// Run server
-	r.Run(":5500")
+	// Start the Echo server on port 5500
+	e.Logger.Fatal(e.Start("127.0.0.1:5500"))
 }
