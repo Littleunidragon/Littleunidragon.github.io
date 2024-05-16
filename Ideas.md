@@ -8,4 +8,5 @@
 <li> creating app to make qr codes from audio</li>
 <li> my website!!!!</li>
 <li> website with random tasks from exams and ranking table</li>
+<li> personal assistant - telegram bot, completely mine from scratch! </li>
 </ul>

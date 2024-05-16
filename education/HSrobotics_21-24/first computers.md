@@ -2,11 +2,12 @@
 # _WORK IN PROGRESS_
 
 Sources:
-https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/
+
 https://www.computerhope.com/history/index.htm
 https://telehack.com/
 https://cdn.mos.cms.futurecdn.net/iEgWi99bt65tQ4vEo44zSa-970-80.jpg.webp
 
+https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/
 # 1642
 ## Blaise Pascal
 Frances Blaise Pascal invented a machine called the Pascaline that adds, subtracts, and carries between digits.
