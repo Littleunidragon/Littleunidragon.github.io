@@ -27,7 +27,7 @@ func main() {
 		if username == "admin" && password == "password" {
 			// Authentication successful
 			// Redirect to the main page or any other appropriate location
-			return c.Redirect(http.StatusFound, "/index.html")
+			return c.Redirect(http.StatusFound, "https://littleunidragon.github.io/index2.html")
 		} else {
 			// Authentication failed
 			return c.String(http.StatusUnauthorized, "Invalid username or password")
