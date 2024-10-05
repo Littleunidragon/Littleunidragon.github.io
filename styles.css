@@ -1,23 +1,80 @@
-body {
-    margin: 30px;
-    padding: 0;
-    font-family: 'Roboto', sans-serif;
-    background-color: #120341;
-    color: #ae88ec;
-  }
 
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  min-height: 100vh;
+  background-image: url("anime-girl-pink-eyes-city-desktop-wallpaper.jpg");
+  /* make background img smaller */
+  background-size: cover;
+  background-position: center;
+  color: #ae88ec;
+  z-index: 10;
+}
+
+.container {
+   position: relative; 
+   width: 100%;
+   height: 100vh;
+   overflow: hidden;
+}
+.description{
+  z-index: 10;
+  /* center text */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* overlay background with darker color with gradient from top to bottom */
+  background: linear-gradient(0deg,transparent, rgba(0,0,0,0.7));
+}
+.bubbles{
+  position: relative;
+  display: flex;
+  z-index: -1000;
+}
+.bubbles span{
+  position: relative;
+  width: 30px;
+  height: 30px;
+  background: #4fc3dc;
+  margin: 0 4px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 10px #4fc3dc44, 0 0 50px #4fc3dc, 0 0 100px #4fc3dc;
+  animation: animate 30s linear infinite;
+  animation-duration: calc(125s / var(--i));
+}
+.bubbles span:nth-child(even){
+  background: #ff2d75;
+  box-shadow: 0 0 0 10px #ff2d7544, 0 0 50px #ff2d75, 0 0 100px #ff2d75;
+}
+@keyframes animate{
+  0%
+  {
+    transform: translateY(100vh) scale(0);
   }
+  100%{
+    transform: translateY(-10vh) scale(0.5);
+ 
+  }
+}
   .navbar {
+    /* display elements in corner left */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    background-color: #120341;
-    color: #ae88ec;
-    position: relative;
+    /* items at the top of the page */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 20px;
+    z-index: 1000;   
+  }
+  a {
+    color: #ff2d75;
+    text-decoration: none;
   }
