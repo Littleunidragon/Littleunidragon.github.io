@@ -11,7 +11,7 @@ body{
   /* make background img smaller */
   background-size: cover;
   background-position: center;
-  color: #ae88ec;
+  color: #cebceb;
   z-index: 10;
 }
 
@@ -29,7 +29,12 @@ body{
   align-items: center;
   flex-direction: column;
   /* overlay background with darker color with gradient from top to bottom */
-  background: linear-gradient(0deg,transparent, rgba(0,0,0,0.7));
+  /* background: linear-gradient(0deg,transparent, rgba(0,0,0,0.9)); */
+  background: rgba(0,0,0,0.5);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 .bubbles{
   position: relative;

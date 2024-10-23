@@ -1,12 +1,16 @@
-<ul>
-<li> Stylized desktop wallpaper, which showcases placement of planets in solar system in real time</li>
-<li>Little meadow -  app for testing, archiving and running all my code</li>
-<li>Library system for book organizing + reciting function(for ex. every year from reading book program asks to remember what this book was about)</li>
-<li> glossary</li>
-<li>plant watering reminder</li>
-<li> research - how often citation from twitter used as sources in news</li>
-<li> creating app to make qr codes from audio</li>
-<li> my website!!!!</li>
-<li> website with random tasks from exams and ranking table</li>
-<li> personal assistant - telegram bot, completely mine from scratch! </li>
-</ul>
+[ ] Stylized desktop wallpaper, which showcases placement of planets in solar system in real time
+- [ ] Little meadow -  app for testing, archiving and running all my code
+- [ ] Library system for book organizing + reciting function(for ex. every year from reading book program asks to remember what this book was about)
+- [ ] glossary
+- [ ] plant watering reminder. PLants are dead no need anymore
+- [ ] creating app to make qr codes from audio
+- [ ] my website!!!!
+- [ ] clock, in which you can stop the time, java project???
+- [ ] matrix calculator
+- [ ] higher or lower game
+- [ ] website with random tasks from exams and ranking table
+- [ ] personal assistant - telegram bot, completely mine from scratch!
+- [ ] project management system
+- [ ] household finance system
+- [ ] vr game
+- [ ] 3d and 4d note taking app
